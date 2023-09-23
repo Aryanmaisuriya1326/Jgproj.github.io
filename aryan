@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eSports School of Computer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the eSports School of Computer</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#courses">Courses</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>At the eSports School of Computer, we offer top-notch education and training in the world of competitive gaming and computer technology.</p>
+        <p>Our mission is to empower aspiring gamers and tech enthusiasts with the knowledge and skills they need to succeed in the eSports industry.</p>
+    </section>
+
+    <section id="courses">
+        <h2>Our Courses</h2>
+        <ul>
+            <li>
+                <h3>eSports Fundamentals</h3>
+                <p>Learn the basics of competitive gaming, team strategies, and game analysis.</p>
+            </li>
+            <li>
+                <h3>Computer Science for Gamers</h3>
+                <p>Master programming and computer skills essential for eSports professionals.</p>
+            </li>
+            <li>
+                <h3>Game Development</h3>
+                <p>Create your own games and explore the game development industry.</p>
+            </li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or inquiries, feel free to reach out to us:</p>
+        <address>
+            <p>Email: <a href="mailto:info@esportsschool.com">info@esportsschool.com</a></p>
+            <p>Phone: <a href="tel:+123456789">+123-456-789</a></p>
+        </address>
+    </section>
+
+    <footer>
+        &copy; 2023 eSports School of Computer
+    </footer>
+</body>
+</html>
